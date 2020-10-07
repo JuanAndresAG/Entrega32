@@ -1,0 +1,125 @@
+body{
+	background-color: pink;
+}
+
+.fondo{
+	background-color: red;
+	width: 400px;
+	height: 500px;
+	border-radius: 30px;
+}
+.titulo{
+	position: relative;
+	top: 50px;
+	left: 70px;
+	background-color: yellow;
+	width: 200px;
+	height: 100px;
+	padding: 30px;
+	border-radius: 50px;
+}
+.b1{
+	position: relative;
+	background-color: lightgreen;
+	width: 100px;
+	height: 100px;
+	top: 70px;
+	left: 150px;
+	border-radius: 20px;
+}
+.b2{
+	position: relative;
+	background-color: lightgreen;
+	width: 100px;
+	height: 100px;
+	top: 180px;
+	left: 50px;
+	border-radius: 20px;
+}
+.cuadro1{
+    position: absolute;
+    display: none;
+	width: 400px;
+	height: 500px;
+	background-color: lightblue;
+	left: 450px;
+	top: 10px;
+	border-radius: 30px;
+
+}
+.cuadro12{
+    position: absolute;
+    display: block;
+	width: 400px;
+	height: 500px;
+	background-color: lightblue;
+	left: 450px;
+	top: 10px;
+	border-radius: 30px;
+}
+.ocultar{
+	
+	display: none;
+	
+}
+.ocultar1{
+	position: absolute;
+	display: block;
+	left: 600px;
+	top: 400px;
+}
+.cuadro2{
+	position: absolute;
+    display: none;
+	width: 400px;
+	height: 500px;
+	background-color: lightblue;
+	left: 450px;
+	top: 10px;
+	border-radius: 30px;
+}
+.cuadro22{
+	position: absolute;
+    display: block;
+	width: 400px;
+	height: 500px;
+	background-color: lightblue;
+	left: 450px;
+	top: 10px;
+	border-radius: 30px;
+}
+.o1{
+	position: relative;
+	left: 100px;
+	top: 10px;
+}
+.o2{
+	position: relative;
+	left: -80px;
+	top: 100px;
+}
+.o3{
+	position: relative;
+	left: 100px;
+	top: 190px;
+}
+.mas{
+	position: absolute;
+left: 50%;
+}
+.menos{
+position: absolute;
+left: 50%;
+top: 150px;
+}
+.igual{
+position: absolute;
+left: 50%;
+top: 220px;
+}
+.solucion{
+	position: absolute;
+	display: block;
+	left: 150px;
+	top: 350px;
+}
